@@ -35,7 +35,7 @@ iris = sns.load_dataset("iris")
 
 ```
 ---
-##***Exploratory Data Analysis (EDA)***
+## ***Exploratory Data Analysis (EDA)***
 The following steps and plots were used to explore the dataset:
 - Data inspection using .info() and .describe()
 - Histograms (histplot) to understand value distributions
@@ -45,7 +45,7 @@ The following steps and plots were used to explore the dataset:
 
 ---
 
-##***Note***
+## ***Note***
 No machine learning models were applied in this task. The focus was purely on data visualization and understanding the dataset through EDA.
 
 
